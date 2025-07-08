@@ -15,6 +15,9 @@ The course is organized into progressive modules, each building upon the previou
 - **[05-variables](./05-variables/)** - Working with variables and data types
   - **[01-names](./05-variables/01-names/)** - Variable naming conventions
   - **[02-assign-multiple-values](./05-variables/02-assign-multiple-values/)** - Multiple variable assignment
+  - **[03-output-variables](./05-variables/03-output-variables/)** - Displaying and outputting variables
+  - **[04-global-variables](./05-variables/04-global-variables/)** - Understanding global vs local scope
+- **[06-data-types](./06-data-types/)** - Python data types and their usage
 
 ## 🚀 Getting Started
 
