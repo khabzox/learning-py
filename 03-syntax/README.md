@@ -1,5 +1,5 @@
 ## Execute Python Syntax
-As we learned in [Getting Started Folder](https://github.com/khabzox/learning-py/tree/main/getting-started), Python syntax can be executed by writing directly in the Command Line:
+As we learned in [Getting Started Folder](https://github.com/khabzox/learning-py/tree/main/02-getting-started), Python syntax can be executed by writing directly in the Command Line:
 
 ```bash
 >>> print("Hello, World!")
@@ -66,7 +66,7 @@ y = "Hello, World!"
 ```
 
 Python has no command for declaring a variable.
-You will learn more about variables in the [Python Variables](https://github.com/khabzox/learning-py/tree/main/variables) chapter.
+You will learn more about variables in the [Python Variables](https://github.com/khabzox/learning-py/tree/main/04-variables) chapter.
 
 ## Comments
 
