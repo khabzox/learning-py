@@ -74,11 +74,6 @@ This is a personal learning repository, but suggestions and improvements are wel
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🏷️ Tags
-
-`python` `learning` `tutorial` `beginner` `programming` `education` `python3` `coding` `fundamentals` `examples` `exercises` `syntax` `variables` `comments` `getting-started`
-
 ---
 
 ## Happy Learning! 🎉
