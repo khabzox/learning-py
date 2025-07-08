@@ -23,6 +23,7 @@ Python is an interpreted programming language, this means that as a developer yo
 Let's write our first Python file, called `hello.py`, which can be done in any text editor:
 
 `hello.py:`
+
 ```bash
 print("Hello, World!")
 ```
@@ -34,11 +35,11 @@ C:\Users\Your Name>python hello.py
 ```
 
 The output should be:
-```bash 
+
+```bash
 Hello, World!
 ```
 
 Congratulations, you have written and executed your first Python program.
 
 🔥🎉 Congratulations, you have written and executed your first Python program.
-
