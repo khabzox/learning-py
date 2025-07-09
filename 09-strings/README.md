@@ -102,7 +102,7 @@ for x in "banana":
 <!-- TODO ADD LINK TO THIS CHAPTER -->
 
 > [!NOTE]
-> You Will learn later Python For Loops at this repo
+> You Will learn later about Python For Loops at this repo
 
 ## String Length
 
@@ -145,7 +145,7 @@ if "free" in txt:
 <!-- TODO ADD LINK TO THIS CHAPTER -->
 
 > [!NOTE]
-> You Will learn later Python If...Else at this repo
+> You Will learn later about Python If...Else at this repo
 
 ## Check if NOT
 
