@@ -18,6 +18,10 @@ The course is organized into progressive modules, each building upon the previou
   - **[03-output-variables](./05-variables/03-output-variables/)** - Displaying and outputting variables
   - **[04-global-variables](./05-variables/04-global-variables/)** - Understanding global vs local scope
 - **[06-data-types](./06-data-types/)** - Python data types and their usage
+- **[07-numbers](./07-numbers/)** - Working with numeric data types
+- **[08-casting](./08-casting/)** - Type conversion and casting in Python
+- **[09-strings](./09-strings/)** - String manipulation and methods
+  - **[01-slicing-strings](./09-strings/01-slicing-strings/)** - String slicing techniques
 
 ## 🚀 Getting Started
 
