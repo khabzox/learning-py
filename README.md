@@ -22,6 +22,7 @@ The course is organized into progressive modules, each building upon the previou
 - **[08-casting](./08-casting/)** - Type conversion and casting in Python
 - **[09-strings](./09-strings/)** - String manipulation and methods
   - **[01-slicing-strings](./09-strings/01-slicing-strings/)** - String slicing techniques
+  - **[02-modify-strings](./09-strings/02-modify-strings/)** - String modification and transformation
 
 ## 🚀 Getting Started
 
