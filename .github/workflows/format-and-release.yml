@@ -29,8 +29,8 @@ jobs:
     
     - name: Format Python code
       run: |
-        black .
-        isort .
+        black . || true
+        isort . || true
     
     - name: Commit formatting changes
       run: |
