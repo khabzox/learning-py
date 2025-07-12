@@ -59,7 +59,12 @@
     "mock",
     "fixture",
     "parametrize",
-    "monkeypatch"
+    "monkeypatch",
+    "isort",
+    "pylint",
+    "flake8",
+    "black",
+    "markdownlint"
   ],
   "ignorePaths": [
     "node_modules/**",
