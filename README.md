@@ -1,7 +1,7 @@
 # Learning Python 🐍
 
-[![CI/CD](https://github.com/khabzox/learning-py/actions/workflows/ci.yml/badge.svg)](https://github.com/khabzox/learning-py/actions/workflows/ci.yml)
-[![Learning Progress](https://github.com/khabzox/learning-py/actions/workflows/learning-progress.yml/badge.svg)](https://github.com/khabzox/learning-py/actions/workflows/learning-progress.yml)
+[![CI/CD](https://github.com/khabzox/learning-py/actions/workflows/python-learning.yml/badge.svg)](https://github.com/khabzox/learning-py/actions/workflows/python-learning.yml)
+[![Learning Progress](https://github.com/khabzox/learning-py/actions/workflows/progress-tracker.yml/badge.svg)](https://github.com/khabzox/learning-py/actions/workflows/progress-tracker.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
@@ -33,47 +33,60 @@ The course is organized into progressive modules, each building upon the previou
 ## 🚀 Getting Started
 
 ### Prerequisites
-
 - Python 3.7 or higher
 - Text editor or IDE (VS Code, PyCharm, etc.)
-- Basic computer literacy
 
 ### Installation
-
 1. Clone this repository:
-
    ```bash
    git clone https://github.com/khabzox/learning-py.git
    cd learning-py
    ```
 
-2. Verify Python installation:
-
-   ```bash
-   python --version
-   ```
-
-3. (Optional) Set up a virtual environment:
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Linux/Mac
-   # or
-   venv\Scripts\activate     # On Windows
-   ```
-
-4. Install development dependencies (optional):
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-5. Start with the first module:
-
+2. Start with the first module:
    ```bash
    cd 01-Intro
    python main.py
    ```
+
+## 📝 How to Use This Repository
+
+1. **Sequential Learning**: Follow the modules in order (01, 02, 03, etc.)
+2. **Hands-on Practice**: Each module contains practical examples and exercises
+3. **Experiment**: Modify the code examples to deepen your understanding
+
+## 🎯 Learning Objectives
+
+By completing this course, you will:
+- ✅ Understand Python syntax and fundamentals
+- ✅ Learn proper coding conventions and best practices
+- ✅ Master variable declaration and manipulation
+- ✅ Write clean, readable Python code
+- ✅ Build a solid foundation for advanced Python topics
+
+## 🤝 Contributing
+
+Suggestions and improvements are welcome! Feel free to:
+- Open an issue for questions or suggestions
+- Submit a pull request for improvements
+- Share your learning experience
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Happy Learning! 🎉
+
+_Remember: The best way to learn programming is by doing. Don't just read the code - run it, modify it, and experiment with it!_
+
+### 📚 Additional Resources
+
+- [Python Official Documentation](https://docs.python.org/3/)
+- [Real Python Tutorials](https://realpython.com/)
+- [Python Package Index (PyPI)](https://pypi.org/)
+- [Awesome Python](https://github.com/vinta/awesome-python) - Curated list of Python resources
 
 ## �️ Development & Automation
 
