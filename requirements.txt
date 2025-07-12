@@ -5,9 +5,3 @@ pylint>=3.0.0
 pytest>=7.0.0
 pytest-cov>=4.0.0
 flake8>=6.0.0
-
-# Documentation
-markdownlint-cli2>=0.8.0
-
-# Optional: For spell checking
-pyspelling>=2.8.0
